@@ -39,4 +39,4 @@ Click 👉[here](https://drive.google.com/drive/folders/1EfqSz61tbq_2HyQCu0PyZoa
 The original dataset was obtained froma car-sharing company and incules hourly data on customer demand rates, weather conditions, and temperature. Due to privacy considerations, the dataset has been anonymized and sanitized.
 
 ## Author
-Precious Okpala
+[Precious Okpala](https://github.com/Precious-Okpala)
