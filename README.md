@@ -7,21 +7,26 @@ This repository contains SQL queries and documentation for analyzing a car-shari
 - Data_Dictionary.md: Documentation describing the structure and contents of each table in the dataset.
 - README.md: This file provides an overview of the repository and instructions for accessing and usin the SQL queries.
 
-Click 👉here👈 to see these files.
+Click 👉[here](https://drive.google.com/drive/folders/1EfqSz61tbq_2HyQCu0PyZoaM-xpZk0KR?usp=sharing)👈 to see these files.
 
 ## SQL Queries
 1. Highest demand rate in 2017:
-- Query to find the date and time with the highest demand rate in 2017.
-2. Average demand rates by Weekday, Month, and Seasons:
-- Query to find the highest and lowest average demand rates by weekday, month, and season in 2017.
-3. Hourly demand rates by weekday in 2017:
-- Query to find the avaerage demand rate by hour for a selected weekday in 2017.
+- Query to find the exact date and time when the highest demand occurred in 2017.
+2. Average demand rates by Weekday, Month, and Season; Query to;
+- (2A) Calculate the weekday, month, and season with the highest average demand in 2017.
+- (2B) Calculate the weekday, month, and season with the lowest average demand in 2017.
+3. Hourly demand rates for the selected weekday(s) in 2017:
+- Query to calculate the average demand for each hour of the selected weekday(s) from (b).
 4. Weather analysis for 2017:
-- Query to find the average weather conditions in 2017, including the prevalence of cold, mild, or hot weather, and average, highest, and lowest wind speed and humidity by month.
-5. Average demand rates by weather category:
-- Query to find the average demand rate for each weather category (cold, mild, hot) in 2017.
-6. Weather analysis for the highest demand month in 2017:
-- Query to analyze weather conditions for the month with the highest average demand rate in 2017.
+- (4a) Determine whether 2017 was mostly cold, mild, or hot, based on temperature categories.
+- (4b) Identify the most frequent weather condition (from the weather column).
+- (4c) Provide monthly statistics for:
+- (i) Wind speed: average, highest, and lowest
+- (ii) Humidity: average, highest, and lowest
+- (4d) Calculate the average demand for cold, mild, and hot weather categories.
+5. Weather analysis for the highest demand month in 2017:
+- (5a) Identify the month with the highest average demand in 2017.
+- (5b) Repeat the weather-related analysis from (4) for that month only (i.e., cold/mild/hot classification, wind speed, humidity, and average demand).
 
 ## Instructions
 1. Clone or download this repository to your local machine.
