@@ -30,3 +30,8 @@ Click 👉here👈 to see these files.
 4. Review the results and analysis provided by each query.
 5. Refer to the Dta_Dictionary.md file for descriptions of table structures and column definitions.
   
+## Data Source
+The original dataset was obtained froma car-sharing company and incules hourly data on customer demand rates, weather conditions, and temperature. Due to privacy considerations, the dataset has been anonymized and sanitized.
+
+## Author
+Precious Okpala
